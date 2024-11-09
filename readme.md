@@ -1,6 +1,10 @@
 # Olá, me chamo Jheniffer Akycharia!
 
-### Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, atualmente focada em Cloud Computing e DevOps. Busco oportunidades para aplicar meus conhecimentos e crescer profissionalmente na área de tecnologia.
+### Apaixonada por DevOps, Cloud Computing e estudante de Análise e Desenvolvimento de Sistemas na UEPB, sou movida pela curiosidade e pelo desejo constante de aprender.
+
+Além disso, tenho um forte interesse em programação e manipulação de dados com Python, onde posso desenvolver soluções criativas e eficientes para desafios que me inspiram.
+
+Adoro enfrentar problemas que me fazem crescer e buscar maneiras de contribuir de forma significativa para as equipes, trazendo ideias inovadoras e impactantes.
 
 ## Certificações
 - AWS Certified Cloud Practitioner 🏅
