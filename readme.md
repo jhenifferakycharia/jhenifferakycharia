@@ -2,7 +2,7 @@
 
 ### Apaixonada por DevOps, Cloud Computing e estudante de Análise e Desenvolvimento de Sistemas na UEPB, sou movida pela curiosidade e pelo desejo constante de aprender.
 
-Além disso, tenho um forte interesse no universo de Cloud, SRE e DevOps, com ênfase em automação, infraestrutura como código e boas práticas de engenharia. Gosto de explorar como a nuvem pode transformar negócios, e estou sempre em busca de aprimorar minhas habilidades técnicas e práticas.
+Tenho um forte interesse em sistemas escaláveis, automação de processos e cultura de engenharia voltada para confiabilidade. Gosto de explorar como a nuvem pode transformar negócios, e estou sempre em busca de aprimorar minhas habilidades técnicas e práticas.
 
 Adoro enfrentar problemas que me fazem crescer e buscar maneiras de contribuir de forma significativa para as equipes, sempre com foco em confiabilidade, performance e melhoria contínua.
 
